@@ -1,0 +1,4 @@
+CREATE DATABASE IF NOT EXISTS college;
+USE college;
+
+DROP DATABASE IF EXISTS college;
